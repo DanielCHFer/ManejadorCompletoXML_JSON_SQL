@@ -1,0 +1,36 @@
+{
+  "reservas": {
+    "reserva": [
+      {
+        "nombre": "cell basket",
+        "telefono": "2313123",
+        "fechaEvento": "10/01/2009",
+        "tipo": "Congreso",
+        "asistentes": "88",
+        "tipoCocina": "No precisa",
+        "numeroJornadas": "6",
+        "requiereHabitaciones": "true"
+      },
+      {
+        "nombre": "mcchicken",
+        "telefono": "621546789",
+        "fechaEvento": "22/09/2020",
+        "tipo": "Banquete",
+        "asistentes": "2",
+        "tipoCocina": "Pedir cita con chef",
+        "tipoMesa": "rectangular",
+        "comensalesMesa": "15"
+      },
+      {
+        "nombre": "racista",
+        "telefono": "44444444",
+        "fechaEvento": "13/12/2028",
+        "tipo": "Jornada",
+        "asistentes": "2",
+        "tipoCocina": "Carta",
+        "tipoMesa": "redonda",
+        "comensalesMesa": "15"
+      }
+    ]
+  }
+}

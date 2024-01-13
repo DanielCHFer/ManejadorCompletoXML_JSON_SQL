@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<reservas>
+	<reserva>
+		<nombre>jose</nombre>
+		<telefono>2313123</telefono>
+		<fechaEvento>15/11/2003</fechaEvento>
+		<tipo>Congreso</tipo>
+		<asistentes>88</asistentes>
+		<tipoCocina>Carta</tipoCocina>
+		<numeroJornadas>3</numeroJornadas>
+		<requiereHabitaciones>false</requiereHabitaciones>
+	</reserva>
+	<reserva>
+		<nombre>bendy</nombre>
+		<telefono>621546789</telefono>
+		<fechaEvento>11/03/2025</fechaEvento>
+		<tipo>Banquete</tipo>
+		<asistentes>2</asistentes>
+		<tipoCocina>Pedir cita con chef</tipoCocina>
+		<tipoMesa>redonda</tipoMesa>
+		<comensalesMesa>15</comensalesMesa>
+	</reserva>
+	<reserva>
+		<nombre>pasta carbonara</nombre>
+		<telefono>512356656</telefono>
+		<fechaEvento>13/12/2028</fechaEvento>
+		<tipo>Banquete</tipo>
+		<asistentes>16</asistentes>
+		<tipoCocina>Carta</tipoCocina>
+		<tipoMesa>redonda</tipoMesa>
+		<comensalesMesa>15</comensalesMesa>
+	</reserva>
+	<reserva>
+		<nombre>Joe Biden</nombre>
+		<telefono>111111111</telefono>
+		<fechaEvento>01/01/0105</fechaEvento>
+		<tipo>Jornada</tipo>
+		<asistentes>16</asistentes>
+		<tipoCocina>Carta</tipoCocina>
+		<tipoMesa>redonda</tipoMesa>
+		<comensalesMesa>15</comensalesMesa>
+	</reserva>
+</reservas>
